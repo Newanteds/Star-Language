@@ -46,8 +46,9 @@ write "Hello, ", name.
 🚫 String length has a predefined limit.
 
 ## 👥 Contributors
-- Emir Kahraman
+
 - Bülen Yıldırım
+- Emir Kahraman
 - Alp Kutay Köksal
 
 ## 📄 License
